@@ -44,7 +44,7 @@ const m = {
     lastHarmCycle: 0,
     width: 50,
     radius: 30,
-    eyeFillColor: "#000",
+    eyeFillColor: "#000000,
     fillColor: null, //set by setFillColors
     fillColorDark: null, //set by setFillColors
     bodyGradient: null, //set by setFillColors
